@@ -4,7 +4,6 @@ This is a responsive card layout created 8using both HTML and CSS. The layout ca
 This card layout contains three cards. With each card giving an information about a product. information such as description and image of the product are spelt out.
 ## Responsiveness
 -When the screen of the device is a smaller one or adjusted to a narrow size, the cards wrap onto the next row. this made possible because 'wrap' flex type was used. 
-
 - In order to ensure even distribution of content across the container, we used a 'space-around' value for the attribute'justify-content'.
 
 # How to use 
